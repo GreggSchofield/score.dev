@@ -10,7 +10,7 @@ why_score:
   sections:
     - from:
         title: Cognitive load
-        text: Developers are forced to become experts in a variety of tech and tools, just do deploy a simple change to their apps.
+        text: Developers are forced to become experts in a variety of tech and tools, just to deploy a simple change to their apps.
         icon: svg/icon-cognitive.svg
       to:
         title: Features over Ops
@@ -22,7 +22,7 @@ why_score:
         icon: svg/icon-config-drift.svg
       to:
         title: Local to prod
-        text: With Score you can easily transition from local to to remote environments. Configs stay consistent, everywhere you deploy.
+        text: With Score you can easily transition from local to remote environments. Configs stay consistent, everywhere you deploy.
         icon: svg/icon-multiple_stop.svg
     - from:
         title: YAML bloat
